@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "ProjectWeek4",
+            "connectString": "postgres://zmwherkw:mWh5TsYkMxXYMQcdCEhTAlje85O4-_g3@drona.db.elephantsql.com/zmwherkw"
+        }
+    ]
+}
